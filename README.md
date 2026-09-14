@@ -169,5 +169,6 @@ The app will be available at **http://localhost:3000**, with the API running on 
 ---
 
 ## 📄 License
+© 2026 Arjun Chauhan. All rights reserved.
 
-This project is currently unlicensed. Add a license of your choice (MIT is a common default for personal projects).
+This project and its source code are proprietary. No part of this repository may be copied, modified, distributed, or used without explicit written permission from the author.
